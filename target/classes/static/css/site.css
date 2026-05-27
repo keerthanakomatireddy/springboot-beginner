@@ -1,8 +1,26 @@
 h1{
     color:red;
 }
+body{
+    margin: 0px;
+    padding: 8px;
+}
 
-.card{
+.navbar{
+    border: 1px solid #000000;
+    background-color: #444;
+
+}
+.navbar a{
+    color: white;
+    text-decoration: none;
+    margin-right: 20px;
+}
+.navbar a:hover{
+    background-color: #666;
+    padding: 10px;
+}
+/*.card{
     width:250px;
     border:1px solid gray;
     border-radius:10px;
@@ -21,4 +39,4 @@ h1{
 
 .container{
     padding:10px;
-}
+}*/
